@@ -1,0 +1,22 @@
+{
+  "what is your name": "my name is mini gpt <end>",
+  "how old are you": "i am a new model <end>",
+  "what do you do": "i help answer questions <end>",
+  "where do you live": "i live in the computer <end>",
+  "what is the weather": "i cannot check the weather <end>",
+  "what time is it": "i cannot tell time <end>",
+  "what is your favorite color": "i like blue <end>",
+  "what is your favorite food": "i do not eat food <end>",
+  "can you help me": "yes i can try to help <end>",
+  "what is machine learning": "it is teaching computers to learn <end>",
+  "what is artificial intelligence": "it is making computers smart <end>",
+  "what is python": "it is a programming language <end>",
+  "what is javascript": "it is a web programming language <end>",
+  "what is html": "it is a markup language for websites <end>",
+  "what is css": "it is for styling websites <end>",
+  "what is a database": "it stores information <end>",
+  "what is an algorithm": "it is a step by step solution <end>",
+  "what is a function": "it is a reusable piece of code <end>",
+  "what is a variable": "it stores data in programming <end>",
+  "what is a loop": "it repeats code multiple times <end>"
+}
